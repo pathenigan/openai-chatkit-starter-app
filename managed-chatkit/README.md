@@ -33,3 +33,4 @@ same project and organization.
 
 - UI: `frontend/src/components/ChatKitPanel.tsx`
 - Session logic: `backend/app/main.py`
+- 
